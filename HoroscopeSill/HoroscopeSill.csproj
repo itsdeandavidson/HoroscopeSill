@@ -1,0 +1,23 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+	<PropertyGroup>
+		<TargetFramework>net9.0-windows10.0.22621</TargetFramework>
+		<Nullable>enable</Nullable>
+		<ImplicitUsings>enable</ImplicitUsings>
+		<EnableWindowsTargeting>true</EnableWindowsTargeting>
+		<LangVersion>preview</LangVersion>
+	</PropertyGroup>
+	<PropertyGroup>
+		<PackageId>HoroscopeSill</PackageId>
+		<Authors>Dean Davidson</Authors>
+		<Title>Horoscope Sill</Title>
+		<Version>0.0.0.1</Version>
+		<Description>
+			Curious what the stars have in store for you today? This WindowSill extension delivers your daily, weekly, or monthly horoscope right from the tray. Pick your star sign once in settings, then instantly check your personalized reading whenever you need a little cosmic guidance. A simple, calming way to pause, reflect, and reconnect with your day.
+		</Description>
+		<PackageProjectUrl>https://github.com/itsdeandavidson/HoroscopeSill</PackageProjectUrl>
+		<RepositoryUrl>https://github.com/itsdeandavidson/HoroscopeSill</RepositoryUrl>
+	</PropertyGroup>
+	<ItemGroup>
+		<PackageReference Include="WindowSill.API" Version="0.0.3.1" />
+	</ItemGroup>
+</Project>
