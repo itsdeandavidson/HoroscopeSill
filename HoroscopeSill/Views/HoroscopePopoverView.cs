@@ -11,7 +11,7 @@ public sealed partial class HoroscopePopoverView()
 	{
 		HoroscopePopoverViewModel HoroscopePopoverViewModel = new(SettingsProvider, period);
 
-		var c = new SillPopupContent(HoroscopePopoverViewModel.OnOpeningAsync)
+		return new SillPopupContent(HoroscopePopoverViewModel.OnOpeningAsync)
 				.Width(600)
 				.Height(300)
 				.DataContext(
@@ -165,7 +165,6 @@ public sealed partial class HoroscopePopoverView()
 							)
 					)
 				);
-		return c;
 	}
 }
 
