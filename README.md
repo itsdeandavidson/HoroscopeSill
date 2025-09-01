@@ -1,13 +1,11 @@
-﻿# 🌌 WindowSill Horoscope 
+﻿# HoroscopeSill
 
 [![NuGet Version](https://img.shields.io/nuget/v/HoroscopeSill.svg?style=flat&logo=nuget)](https://www.nuget.org/packages/HoroscopeSill/)
 [![NuGet Downloads](https://img.shields.io/nuget/dt/HoroscopeSill.svg?style=flat&logo=nuget)](https://www.nuget.org/packages/HoroscopeSill/)
 
-A [WindowSill](http://getwindowsill.app/) extension that brings your **daily, weekly, and monthly horoscopes** right into the 'Command Bar'.  
+Curious what the stars have in store for you today? This [WindowSill](http://getwindowsill.app/) extension delivers your **daily, weekly, or monthly horoscope** right from the tray. Pick your star sign once in settings, then instantly check your personalised reading whenever you need a little cosmic guidance.
 
-_Set your star sign once in settings, then check your horoscope anytime with a single click_
-
-## 🖼️ Screenshots
+## Screenshots
 
 ### Tray
 ![Tray  Screenshot](Screenshots/Bar.png)
@@ -24,7 +22,7 @@ _Set your star sign once in settings, then check your horoscope anytime with a s
 ### Settings
 ![Settings Screenshot](Screenshots/Settings.png)
 
-## 🔗 Data Source
+## Data Source
 Horoscope readings are sourced via [Horoscope-API](https://github.com/ashutoshkrris/Horoscope-API), which in turn scrapes data from [horoscope.com](https://www.horoscope.com).  
 - We don’t generate or interpret horoscopes ourselves.  
 - This integration simply provides a clean and convenient way to fetch and display them in WindowSill.  

@@ -10,9 +10,9 @@
 		<PackageId>HoroscopeSill</PackageId>
 		<Authors>Dean Davidson</Authors>
 		<Title>Horoscope Sill</Title>
-		<Version>0.0.1.0</Version>
+		<Version>0.0.1.1</Version>
 		<Description>
-			Curious what the stars have in store for you today? This WindowSill extension delivers your daily, weekly, or monthly horoscope right from the tray. Pick your star sign once in settings, then instantly check your personalized reading whenever you need a little cosmic guidance. A simple, calming way to pause, reflect, and reconnect with your day.
+			Curious what the stars have in store for you today? This WindowSill extension delivers your daily, weekly, or monthly horoscope right from the tray. Pick your star sign once in settings, then instantly check your personalised reading whenever you need a little cosmic guidance. A simple, calming way to pause, reflect, and reconnect with your day.
 		</Description>
 		<PackageProjectUrl>https://github.com/itsdeandavidson/HoroscopeSill</PackageProjectUrl>
 		<RepositoryUrl>https://github.com/itsdeandavidson/HoroscopeSill</RepositoryUrl>
