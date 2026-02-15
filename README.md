@@ -1,4 +1,7 @@
-﻿# HoroscopeSill
+# HoroscopeSill
+
+> [!IMPORTANT]  
+> Since the API that powered this extension has faded into the cosmos, the project has been archived and is no longer maintained.
 
 [![NuGet Version](https://img.shields.io/nuget/v/HoroscopeSill.svg?style=flat&logo=nuget)](https://www.nuget.org/packages/HoroscopeSill/)
 [![NuGet Downloads](https://img.shields.io/nuget/dt/HoroscopeSill.svg?style=flat&logo=nuget)](https://www.nuget.org/packages/HoroscopeSill/)
